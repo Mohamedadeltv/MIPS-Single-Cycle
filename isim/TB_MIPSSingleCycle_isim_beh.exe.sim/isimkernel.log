@@ -1,0 +1,30 @@
+Command line:
+   TB_MIPSSingleCycle_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58330
+
+Thu Jun 10 00:41:35 2021
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5165.66 Meg
+
+ Total Signals          : 113
+ Total Nets             : 3706
+ Total Signal Drivers   : 34
+ Total Blocks           : 23
+ Total Primitive Blocks : 21
+ Total Processes        : 22
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 4215
+In process Instruction_Memory.vhd:58 
+ 
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 5165.66 Meg
+
+Thu Jun 10 00:41:41 2021
+

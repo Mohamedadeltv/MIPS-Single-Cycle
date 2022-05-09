@@ -1,0 +1,45 @@
+Running: D:\is\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/muxmohamedadel/TB_MIPSSingleCycle_isim_beh.exe -prj E:/muxmohamedadel/TB_MIPSSingleCycle_beh.prj work.TB_MIPSSingleCycle 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/muxmohamedadel/signextend.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/shiftleft.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/registers.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/pcadder.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/pc.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/mux2to1.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/Instruction_Memory.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/datamemory.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/controlunit1.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/ALU2.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/ALU.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/MIPS.vhd" into library work
+Parsing VHDL file "E:/muxmohamedadel/MIPSTEST.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity mux2to1 [mux2to1_default]
+Compiling architecture behavioral of entity signextend [signextend_default]
+Compiling architecture behavioral of entity Registers [registers_default]
+Compiling architecture behavioral of entity mux2to1 [\mux2to1(5)\]
+Compiling architecture behavioral of entity Instruction_Memory [instruction_memory_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity ALU2 [alu2_default]
+Compiling architecture behavioral of entity datamemory [datamemory_default]
+Compiling architecture behavioral of entity ControlUnit [controlunit_default]
+Compiling architecture behavioral of entity pc [pc_default]
+Compiling architecture behavioral of entity pcadder [pcadder_default]
+Compiling architecture behavioral of entity shiftleft [shiftleft_default]
+Compiling architecture behavioral of entity shiftleft [\shiftleft(28)\]
+Compiling architecture behavioral of entity MIPS [mips_default]
+Compiling architecture behavior of entity tb_mipssinglecycle
+Time Resolution for simulation is 1ps.
+Compiled 34 VHDL Units
+Built simulation executable E:/muxmohamedadel/TB_MIPSSingleCycle_isim_beh.exe
+Fuse Memory Usage: 37440 KB
+Fuse CPU Usage: 1390 ms

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/muxmohamedadel/TB_MIPSSingleCycle_isim_beh.exe" -prj "E:/muxmohamedadel/TB_MIPSSingleCycle_beh.prj" "work.TB_MIPSSingleCycle" 
